@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/sijms/go-ora/v2/configurations"
-	"github.com/sijms/go-ora/v2/network/security"
+	"github.com/zegorax/go-ora/v2/configurations"
+	"github.com/zegorax/go-ora/v2/network/security"
 )
 
 type encryptService struct {

@@ -1,7 +1,7 @@
 package TestIssues
 
 import (
-	"github.com/sijms/go-ora/dbms"
+	"github.com/zegorax/go-ora/dbms"
 	"testing"
 )
 

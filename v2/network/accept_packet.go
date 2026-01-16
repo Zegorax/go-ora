@@ -2,7 +2,7 @@ package network
 
 import (
 	"encoding/binary"
-	"github.com/sijms/go-ora/v2/configurations"
+	"github.com/zegorax/go-ora/v2/configurations"
 )
 
 // type AcceptPacket Packet

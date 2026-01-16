@@ -19,11 +19,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sijms/go-ora/v2/configurations"
+	"github.com/zegorax/go-ora/v2/configurations"
 
-	"github.com/sijms/go-ora/v2/trace"
+	"github.com/zegorax/go-ora/v2/trace"
 
-	"github.com/sijms/go-ora/v2/converters"
+	"github.com/zegorax/go-ora/v2/converters"
 )
 
 // var ErrConnectionReset error = errors.New("connection reset")

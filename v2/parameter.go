@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sijms/go-ora/v2/configurations"
-	"github.com/sijms/go-ora/v2/converters"
-	"github.com/sijms/go-ora/v2/network"
+	"github.com/zegorax/go-ora/v2/configurations"
+	"github.com/zegorax/go-ora/v2/converters"
+	"github.com/zegorax/go-ora/v2/network"
 )
 
 type (

@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	go_ora "github.com/sijms/go-ora/v2"
+	go_ora "github.com/zegorax/go-ora/v2"
 )
 
 func usage() {

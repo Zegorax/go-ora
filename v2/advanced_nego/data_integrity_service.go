@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/sijms/go-ora/v2/configurations"
-	"github.com/sijms/go-ora/v2/network/security"
-	"github.com/sijms/go-ora/v2/trace"
+	"github.com/zegorax/go-ora/v2/configurations"
+	"github.com/zegorax/go-ora/v2/network/security"
+	"github.com/zegorax/go-ora/v2/trace"
 )
 
 type dataIntegrityService struct {

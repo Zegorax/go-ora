@@ -9,10 +9,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/sijms/go-ora/v2/advanced_nego"
-	"github.com/sijms/go-ora/v2/configurations"
+	"github.com/zegorax/go-ora/v2/advanced_nego"
+	"github.com/zegorax/go-ora/v2/configurations"
 
-	"github.com/sijms/go-ora/v2/converters"
+	"github.com/zegorax/go-ora/v2/converters"
 )
 
 type OracleDriver struct {

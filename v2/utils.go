@@ -15,9 +15,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/sijms/go-ora/v2/lazy_init"
+	"github.com/zegorax/go-ora/v2/lazy_init"
 
-	"github.com/sijms/go-ora/v2/network"
+	"github.com/zegorax/go-ora/v2/network"
 )
 
 var (
